@@ -1,0 +1,12 @@
+I HAVE MADE A VERY BASIC WEBSITE OF OUR'S college's GDG, with additions of a pictures section and calander, blogs webpages, 
+
+I added calander webpage so that the visitor can see our schedule and if he logs in he can also do his scheduling and tasks, and to do,
+
+
+I added a blogs sections in hopes that our nmit gdg can regularly post articles about the latest tech, educational info, experiences, etc. which will help new devlopers to learn and expand their knowledge,
+
+
+I tried adding a chatbot to the website but failed miserably.
+
+I would want to thank gdg for giving me this special oppturnity to prove myself,
+it is not much....but I hope you like my work...
